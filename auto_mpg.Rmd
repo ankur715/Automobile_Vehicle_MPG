@@ -260,7 +260,7 @@ error1 <- error1 - 6.764
 summary(error1)
 ```
 
-The predicted values ranged from ~16 to ~29 according to linear regression using displacement and weight variables. Error1 ranged from ~(-2) to ~19 and its mean was 6.764. To normalize that, I subtracted 6.764 from error1. The error1's IQR = ~5.8, and the Max value of error and some other higher values are outside the upper boundary of ~12. Afer normalizing it to the mean of 0, the errors are within the boundaries. IT INDICATES THAT ___________________.
+The predicted values ranged from ~16 to ~29 according to linear regression using displacement and weight variables. Error1 ranged from ~(-2) to ~19 and its mean was 6.764. To normalize that, I subtracted 6.764 from error1. The error1's IQR = ~5.8, and the Max value of error and some other higher values are outside the upper boundary of ~12. After normalizing it to the mean of 0, the errors are within the boundaries. IT INDICATES THAT ___________________.
 
 ---
 
