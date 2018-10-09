@@ -1,26 +1,26 @@
 ---
 
-DS 510 – Introduction to Data Science
-Fall 2018 - Assignment 1
-Date – 10/15/2018
-Group – Ankur Patel 
+DS 510 – Introduction to Data Science  
+Fall 2018 - Assignment 1  
+Date – 10/15/2018  
+Group – Ankur Patel   
 
 ---
 
-Table of Contents:
-1: Introduction
-2: Read, View, Structure, Summary
-3: Clean Data
-4: Train Dataset & Test Dataset
-5: Multiple R-Squared
-6: Adjusted R-Squared
-7: Complete Linear Regression Equation
-8: Predict & Compare
-9: Residual Plot
-10: Histogram
-11: Transaction Log
-12. Bonus
-13: Conclusion
+Table of Contents:  
+1: Introduction  
+2: Read, View, Structure, Summary  
+3: Clean Data  
+4: Train Dataset & Test Dataset  
+5: Multiple R-Squared  
+6: Adjusted R-Squared  
+7: Complete Linear Regression Equation  
+8: Predict & Compare  
+9: Residual Plot  
+10: Histogram  
+11: Transaction Log  
+12. Bonus  
+13: Conclusion  
 
 ---
 
