@@ -7,4 +7,4 @@ It has different file types because they provide slightly modified views.
 Please check out the .docx file for the best view.
 
 ---
-If you liked what you saw and want to chat about any work opportunities or project ideas, shoot an email at [p.ankur.715@gmail.com](mailto:p.ankur.715@gmail.com).
+If you liked what you saw and want to chat about any work opportunities or project ideas, shoot an email at [p.ankur.715@gmail.com](mailto:p.ankur.715@gmail.com) or https://www.linkedin.com/in/ankurpatel715/.
